@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="torch" />
+          <option value="torchvision" />
+          <option value="numpy" />
+          <option value="opencv-python" />
+          <option value="timm" />
+          <option value="scipy" />
+          <option value="scikit-image" />
+          <option value="kornia" />
+          <option value="einops" />
+          <option value="tqdm" />
+          <option value="prettytable" />
+          <option value="tabulate" />
+          <option value="huggingface-hub" />
+          <option value="accelerate" />
+          <option value="tensorboardX" />
+          <option value="transformers" />
+          <option value="Pillow" />
+          <option value="requests" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
